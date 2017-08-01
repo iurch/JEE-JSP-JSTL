@@ -1,0 +1,7 @@
+packt/book/jee/eclipse/ch4/dao/CourseDAO.class
+packt/book/jee/eclipse/ch4/db/connection/DatabaseConnectionFactory.class
+packt/book/jee/eclipse/ch4/bean/Course.class
+packt/book/jee/eclipse/ch4/bean/Person.class
+packt/book/jee/eclipse/ch4/bean/Student.class
+packt/book/jee/eclipse/ch4/bean/Teacher.class
+packt/book/jee/eclipse/ch4/servlet/InitServlet.class
